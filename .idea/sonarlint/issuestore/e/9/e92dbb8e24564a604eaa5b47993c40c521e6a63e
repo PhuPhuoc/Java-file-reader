@@ -1,0 +1,16 @@
+
+E
+java:S16048"(Make this anonymous inner class a lambda(ÄùÙ±8ÿçÎÒ‡1
+h
+java:S2095,"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(İ£ï?8‰éÎÒ‡1
+h
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(İ£ï?8ˆàÂÒ‡1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷±èÃıÿÿÿÿ8¹æÀÒ‡1
+n
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(ÄŒ€Óşÿÿÿÿ8àÂÒ‡1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8’àÂÒ‡1
+n
+java:S2677-"LUse or store the value returned from "readLine" instead of throwing it away.(üíÌ¤úÿÿÿÿ8éÎÒ‡1
+L
+java:S2093+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¨éÎÒ‡1
